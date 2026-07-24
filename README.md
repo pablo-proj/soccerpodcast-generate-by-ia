@@ -12,6 +12,3 @@ Audio gerado pela elevenLabs
 Midjourney Para gerar capas
 Capcut para tratar aúdio e adicionar sons de fundo
 
-🤖 1. Use os prompts de roteiro no chagpt
-🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
-🤖 3. Use os prompts de artes no midjourne
