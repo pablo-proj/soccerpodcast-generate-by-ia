@@ -9,6 +9,6 @@ Tecnologias utilizadas no projeto
 Como foi feito ?
 *Roteiro gerado via chatgpt
 *Audio gerado pela elevenLabs
-*Midjourney Para gerar capas
+*Leonardo AI Para gerar capas
 *Capcut para tratar aúdio e adicionar sons de fundo
 
