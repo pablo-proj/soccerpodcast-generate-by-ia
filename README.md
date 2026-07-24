@@ -4,11 +4,11 @@ Onde a tecnologia entra em campo.
 
 ## 🎙️ Episódio 1
 
-[Ouvir o episódio](./output/Podcast%20EP01%20-%20Primeiro%20Jogo.mp3)
+[🎧 Ouvir o episódio](./output/Podcast%20EP01-%20Primeiro%20Jogo.mp3)
 
 ## 📸 Logo
 
-![Logo](./images/logo.png)
+![Logo](./image/Capa-episodio1.jpg)
 
 ## 🚀 Tecnologias
 
