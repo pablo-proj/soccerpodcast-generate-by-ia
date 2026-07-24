@@ -2,13 +2,13 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Tecnologias utilizadas no projeto
 *ChatGPT
-*MidJourney
+*Leonardo AI
 *ElevenLabs
-*Capcut
+
 
 Como foi feito ?
 *Roteiro gerado via chatgpt
 *Audio gerado pela elevenLabs
-*Leonardo AI Para gerar capas
-*Capcut para tratar aúdio e adicionar sons de fundo
+*Leonardo AI Para gerar capa
+
 
